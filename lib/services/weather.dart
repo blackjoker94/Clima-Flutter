@@ -1,5 +1,5 @@
-import 'package:clima/services/location.dart';
-import 'package:clima/services/networking.dart';
+import 'package:clima_flutter/services/location.dart';
+import 'package:clima_flutter/services/networking.dart';
 
 late double latitude;
 late double longitude;
